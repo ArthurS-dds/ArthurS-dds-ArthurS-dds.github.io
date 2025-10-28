@@ -1,6 +1,6 @@
 # ArthurS-dds-ArthurS-dds.github.io
 
-[arthur.html](https://github.com/user-attachments/files/23176140/arthur.html)<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
